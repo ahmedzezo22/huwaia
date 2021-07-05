@@ -1,0 +1,74 @@
+table {
+    width: 90%;
+    border-right: 4px solid #E95420 !important;
+    border-left: 4px solid #E95420 !important;
+    border-bottom: 4px solid #E95420 !important;
+    color:#fff !important;
+    background-color: #333 !important;
+    border-radius: 20px;
+    margin-top: 20px;
+          
+}
+ 
+td {
+    
+    padding: 5px!important;
+    text-align: center;
+    font-family:'Droid-Sans-Arabic' !important;
+    font-size:1.5rem !important;
+   
+   
+}
+img{
+    border-radius: 20px;
+    width: 46%;
+    height: 300px;
+    float: left;
+    margin-top: 20px;
+}
+
+.card-data{
+    
+    font-family:'Droid-Sans-Arabic' !important;
+    font-size:1.5rem !important;
+    width: 100%;
+    
+}
+
+
+ 
+table th {
+    font-family:'JF Flat' !important;
+    font-size:1.5rem !important;
+    text-align: center;
+    border-bottom: 2px solid #E95420 !important;
+    padding: 5px!important;
+    
+    
+}
+
+.page-header{
+    text-align: center !important;
+    border-bottom: 4px solid #E95420 !important;
+    background-color: #333 !important;
+    color:#fff !important;
+    font-weight:bolder !important;
+    font-family:'JF Flat' !important;
+    font-size:1.3rem !important;
+    border-radius: 10px !important; 
+   
+  }
+  .header-container{
+  max-height: 30px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@font-face { font-family: "JF-Flat"; src: url("./fonts/JF-Flat-Regular.ttf"); }
+@font-face { font-family: "ah-naskh-hadith"; src: url("./fonts/18410-ah-naskh-hadith.ttf"); }
+@font-face { font-family: "Droid-Arabic-Kufi-1"; src: url("./fonts/Droid-Arabic-Kufi-1.ttf"); }
+@font-face { font-family: "Droid-Sans-Arabic"; src: url("./fonts/Droid-Sans-Arabic.ttf"); }
+@font-face { font-family: "Droid-Arabic-Kufi"; src: url("./fonts/Droid-Arabic-Kufi.ttf"); }
+@font-face { font-family: "ToyorAljanah"; src: url("./fonts/ToyorAljanah-Regular.otf"); }
+@font-face { font-family: "Tajawal"; src: url("./fonts/Tajawal-Medium.ttf"); }
